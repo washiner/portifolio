@@ -1,0 +1,11 @@
+footer {
+    background-color: #222;
+    padding: 25px;
+}
+
+footer span {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
